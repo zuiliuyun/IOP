@@ -8,10 +8,4 @@
 162.159.38.12:443#JP
 162.159.44.9:443#JP
 172.64.53.230:443#JP
-www.visa.cn
-mfa.gov.ua
-www.shopify.com
-store.ubi.com
-staticdelivery.nexusmods.com
-cf.tencentapp.cn
-saas.sin.fan
+
